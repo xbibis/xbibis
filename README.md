@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bem vindo cidadão intruso 👋
 
-<!--
-**xbibis/xbibis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu humilde nome é Gabi (Gabriela)
 
-Here are some ideas to get you started:
+- Estou sendo obrigada a estudar na Alura
+- Eu estou utilizando este espaço por causa do meu curso
+- Jogo league of legends sim.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Não entre em contato comigo, pois sou ignorante.
+
+
+![](![image](https://github.com/xbibis/xbibis/assets/167935451/6b128af1-a630-4276-b420-e82650ae4dcd)
+
